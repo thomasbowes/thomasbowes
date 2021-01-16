@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I am a student at the University of Melbourne, studying a Master of Computer Science.
+
+LinkedIn: https://www.linkedin.com/in/thomas-bowes/
 <!--
 **thomasbowes/thomasbowes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
